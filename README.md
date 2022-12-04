@@ -1,4 +1,6 @@
 
+[![Build Status](https://azgos.visualstudio.com/Entrenate%20pues/_apis/build/status/sanalegon.pipelines-java?branchName=main)](https://azgos.visualstudio.com/Entrenate%20pues/_build/latest?definitionId=2&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
